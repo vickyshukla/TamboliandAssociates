@@ -398,7 +398,7 @@ Loading
 	z-index: 9999;
 	width: 100%;
 	height: 100%;
-	background: var(--white-color);
+	background: var(--dark-color);
 }
 
 #pq-loading img {
